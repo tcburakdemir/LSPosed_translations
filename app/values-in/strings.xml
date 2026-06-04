@@ -25,7 +25,6 @@
     <string name="Settings">Setelan</string>
     <string name="About">Tentang</string>
     <string name="module_repo">Repositori</string>
-    <string name="about_view_source_code"><![CDATA[Lihat kode sumber di %1$s<br/>Gabung dengan kami di saluran %2$s]]></string>
     <item name="translators" type="string">Neebe3289</item>
     <string name="not_installed">Tidak terpasang</string>
     <string name="not_install_summary">LSPosed tidak terpasang</string>
@@ -148,7 +147,6 @@
     <string name="dns_over_http">DNS melalui HTTPS</string>
     <string name="dns_over_http_summary">Solusi mengatasi masalah DNS di beberapa negara</string>
     <string name="settings_repo_cdn">CDN repositori modul</string>
-    <string name="repo_cdn_auto">Otomatis</string>
     <string name="repo_cdn_default">Bawaan</string>
     <string name="repo_cdn_backup">Cadangan</string>
     <string name="settings_show_hidden_icon_apps_enabled">Paksa aplikasi untuk menampilkan ikon peluncur</string>

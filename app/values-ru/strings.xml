@@ -26,7 +26,6 @@
     <string name="Settings">Настройки</string>
     <string name="About">О приложении</string>
     <string name="module_repo">Репозиторий</string>
-    <string name="about_view_source_code"><![CDATA[Просмотреть исходный код на %1$s<br/>Присоединяйтесь к нашему %2$s каналу]]></string>
     <string name="translators" comment="Dear translators, please add your home page here following the format. There can be more than one translator. So feel free to append yourself.">Ichigo</string>
     <string name="not_installed">Не установлен</string>
     <string name="not_install_summary">LSPosed не установлен!</string>

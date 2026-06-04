@@ -26,7 +26,6 @@
     <string name="Settings">설정</string>
     <string name="About">정보</string>
     <string name="module_repo">저장소</string>
-    <string name="about_view_source_code"><![CDATA[%1$s에서 소스 코드 보기<br/>%2$s 채널 참여하기]]></string>
     <string name="translators" comment="Dear translators, please add your home page here following the format. There can be more than one translator. So feel free to append yourself.">naijun0403, green1052</string>
 
     <string name="not_installed">설치되지 않음</string>
@@ -152,7 +151,6 @@
     <string name="dns_over_http">DNS over HTTPS</string>
     <string name="dns_over_http_summary">일부 국가의 DNS 오염을 우회합니다</string>
     <string name="settings_repo_cdn">모듈 저장소 CDN</string>
-    <string name="repo_cdn_auto">자동</string>
     <string name="repo_cdn_default">기본값</string>
     <string name="repo_cdn_backup">백업</string>
     <string name="settings_show_hidden_icon_apps_enabled">앱의 런처 아이콘 강제 표시</string>
